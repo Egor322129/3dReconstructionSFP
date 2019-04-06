@@ -1,10 +1,12 @@
 # 3dReconstructionSFP
 Reconstruction of surfaces using polarization filter and matlab
 
-The task was to achieve surface normals to build 3d model. 
-Here you can see two result images that give visualisation of parametres
+The task was to achieve surface normals to build 3d model. We use polarisation filter (image below), sfp tecnology and Matlab to calculate 3d parametres of object surface.
+
 
 ![Screenshot](Algorithm.png)
--polar angle
--azimuth angle
-from which then we extacted normals by integrating
+
+The bottom images show polar angle and azimuth angle that contains sufficient information for normals estemating.
+Also here is the photo of polarisation lense
+
+
