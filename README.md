@@ -9,6 +9,6 @@ The task was to achieve surface normals to build 3d model. We use polarisation f
 The bottom images show polar angle and azimuth angle that contains sufficient information for normals estemating.
 Also here is the photo of polarisation lense to better vision presentation of needed equipment
 
-![Screenshot](IMG_3760.jpg)
+![Screenshot](IMG_3760.JPG)
 
 
