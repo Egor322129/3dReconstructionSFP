@@ -7,6 +7,10 @@ The bottom images show polar angle and azimuth angle that contains sufficient in
 
 ![Screenshot](Algorithm.png)
 
+It must said that method not solve problem of fundamental ambiguity, therefore we needed to analyze some curves and choose right formula according to curve shape:
+
+![Screenshot](parametres.png)
+
 
 Also here is the photo of polarisation lense to better vision presentation of needed equipment
 
