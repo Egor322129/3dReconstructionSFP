@@ -7,7 +7,7 @@ The bottom images show polar angle and azimuth angle that contains sufficient in
 
 ![Screenshot](Algorithm.png)
 
-It must said that method not solve problem of fundamental ambiguity, therefore we needed to analyze some curves and choose right formula according to curve shape and empiric assumptions:
+It must said that method not solve problem of fundamental ambiguity, therefore we needed to analyze some curves and choose right formula according to curve shape and ground truth:
 
 ![Screenshot](parametres.png)
 
